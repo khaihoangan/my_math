@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1461576593 source:e:\work space\my_math\main.c
+	<stdio.h>
+	<stdlib.h>
+	"my_math.h"
+
+1461575964 e:\work space\my_math\my_math.h
+	<math.h>
+
